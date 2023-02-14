@@ -19,7 +19,7 @@
 
 - :seedling: I'm currently learning React Native and Postgres.
 
-- 👯 I’m open to collaborate on any projects, reach out using my LinkedIn below.
+- 👯 I’m open to collaborate on any projects, reach out to me on Discord: rajivtitus#5325
 
 - :zap: In my free time, I watch tech videos or play video games.
 
