@@ -50,7 +50,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrajiv&theme=dark&background=000000&dates=000000" alt="Github Streaks" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=codewithrajiv&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivtitus&theme=dark&background=000000&dates=000000" alt="Github Streaks" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=rajivtitus&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td>
   </tr>
 </table>
