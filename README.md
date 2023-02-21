@@ -17,7 +17,7 @@
 
 - :telescope: I’m a Web Developer who loves builiding intuitive web applications.
 
-- :seedling: I'm currently learning Reactive JS aka RxJS.
+- :seedling: I'm currently learning Reactive JS and React Query.
 
 - 👯 I’m open to collaborate on any projects, reach out to me on Discord: rajivtitus#5325
 
